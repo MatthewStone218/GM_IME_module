@@ -27,7 +27,9 @@
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
-  "IncludedFiles":[],
+  "IncludedFiles":[
+    {"$GMIncludedFile":"","%Name":"NanumGothic.ttf","CopyToMask":-1,"filePath":"datafiles","name":"NanumGothic.ttf","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+  ],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
@@ -36,13 +38,14 @@
   "name":"GM_IME_module",
   "resources":[
     {"id":{"name":"ext_IME_helper","path":"extensions/ext_IME_helper/ext_IME_helper.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"obj_IME_test","path":"objects/obj_IME_test/obj_IME_test.yy",},},
+    {"id":{"name":"rm_IME_test","path":"rooms/rm_IME_test/rm_IME_test.yy",},},
     {"id":{"name":"scr_input","path":"scripts/scr_input/scr_input.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_IME_test","path":"rooms/rm_IME_test/rm_IME_test.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
